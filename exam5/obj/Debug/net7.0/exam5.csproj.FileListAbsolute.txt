@@ -1,0 +1,15 @@
+C:\Users\fayz0\OneDrive\Desktop\Exam\exam5\bin\Debug\net7.0\exam5.exe
+C:\Users\fayz0\OneDrive\Desktop\Exam\exam5\bin\Debug\net7.0\exam5.deps.json
+C:\Users\fayz0\OneDrive\Desktop\Exam\exam5\bin\Debug\net7.0\exam5.runtimeconfig.json
+C:\Users\fayz0\OneDrive\Desktop\Exam\exam5\bin\Debug\net7.0\exam5.dll
+C:\Users\fayz0\OneDrive\Desktop\Exam\exam5\bin\Debug\net7.0\exam5.pdb
+C:\Users\fayz0\OneDrive\Desktop\Exam\exam5\obj\Debug\net7.0\exam5.csproj.AssemblyReference.cache
+C:\Users\fayz0\OneDrive\Desktop\Exam\exam5\obj\Debug\net7.0\exam5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fayz0\OneDrive\Desktop\Exam\exam5\obj\Debug\net7.0\exam5.AssemblyInfoInputs.cache
+C:\Users\fayz0\OneDrive\Desktop\Exam\exam5\obj\Debug\net7.0\exam5.AssemblyInfo.cs
+C:\Users\fayz0\OneDrive\Desktop\Exam\exam5\obj\Debug\net7.0\exam5.csproj.CoreCompileInputs.cache
+C:\Users\fayz0\OneDrive\Desktop\Exam\exam5\obj\Debug\net7.0\exam5.dll
+C:\Users\fayz0\OneDrive\Desktop\Exam\exam5\obj\Debug\net7.0\refint\exam5.dll
+C:\Users\fayz0\OneDrive\Desktop\Exam\exam5\obj\Debug\net7.0\exam5.pdb
+C:\Users\fayz0\OneDrive\Desktop\Exam\exam5\obj\Debug\net7.0\exam5.genruntimeconfig.cache
+C:\Users\fayz0\OneDrive\Desktop\Exam\exam5\obj\Debug\net7.0\ref\exam5.dll
